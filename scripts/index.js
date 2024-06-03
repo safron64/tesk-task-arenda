@@ -9,4 +9,5 @@ document.addEventListener('DOMContentLoaded', function () {
 		menuBtn.classList.toggle('open')
 		body.classList.toggle('no-scroll')
 	})
+
 })
